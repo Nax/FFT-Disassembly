@@ -1,0 +1,3 @@
+uuid,name,cc,returnType,argCount,variadic,comment
+1c09cb99-8592-405d-ab41-c83602deb74d,/Game/Ability/AbilityFormula,unknown,/void,0,f,Function Signature Data Type
+be7318d7-6158-42e8-95f6-43d08493b65d,/sys/SceKernelThreadEntryFunc,unknown,/int,2,f,Function Signature Data Type

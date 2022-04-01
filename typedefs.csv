@@ -1,0 +1,12 @@
+uuid,name,typedef,comment
+738c73d9-8025-4a40-8c98-368e60b9f441,/sys/SceKernelThreadEntry,/sys/SceKernelThreadEntryFunc *,pointer to SceKernelThreadEntryFunc
+56eadc7e-d2a8-4bb7-90b9-fc4365bbaf51,/sys/SceMode,/int,Signed Integer (compiler-specific size)
+4b69186b-e4ca-40d5-b1d3-447abd5550e1,/sys/SceSize,/uint,Unsigned Integer (compiler-specific size)
+d646e111-6a80-4db0-b2c7-ba9ce09bd8b6,/sys/SceUID,/int,Signed Integer (compiler-specific size)
+57733f65-7570-488d-82ff-df75f5197512,/sys/SceUInt,/uint,Unsigned Integer (compiler-specific size)
+9300701a-a7f2-4086-9b95-f27c2ca0d059,/types.h/int16_t,/short,Signed Short Integer (compiler-specific size)
+f29f8666-e7fe-4dfc-9859-3c3c92ecd0eb,/types.h/int32_t,/int,Signed Integer (compiler-specific size)
+47f23aa3-580e-4cd2-88d8-09af2321a6da,/stddef.h/size_t,/ulong,Unsigned Long Integer (compiler-specific size)
+c62fb91f-ad54-4881-bf0c-853faa6ef52d,/stdint.h/uint16_t,/ushort,Unsigned Short Integer (compiler-specific size)
+fe1af9db-6260-4d43-b7a8-527bda99810b,/stdint.h/uint32_t,/uint,Unsigned Integer (compiler-specific size)
+011cecea-bac3-421f-ae41-def78e5ca97d,/stdint.h/uint8_t,/uchar,Unsigned Character (ASCII)

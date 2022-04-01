@@ -1,0 +1,26 @@
+addr,type,comment
+_elfProgramHeaders::00000000,e,PT_LOAD - Loadable segment
+_elfSectionHeaders::00000000,e,SECTION0 - SHT_NULL
+_elfSectionHeaders::00000028,e,.shstrtab - SHT_STRTAB
+_elfSectionHeaders::00000050,e,.text - SHT_PROGBITS
+_elfSectionHeaders::00000078,e,.rel.text - SHT_REL
+_elfSectionHeaders::000000a0,e,.sceStub.text - SHT_PROGBITS
+_elfSectionHeaders::000000c8,e,.rel.sceStub.text - SHT_REL
+_elfSectionHeaders::000000f0,e,.lib.ent.top - SHT_PROGBITS
+_elfSectionHeaders::00000118,e,.lib.ent - SHT_PROGBITS
+_elfSectionHeaders::00000140,e,.rel.lib.ent - SHT_REL
+_elfSectionHeaders::00000168,e,.lib.ent.btm - SHT_PROGBITS
+_elfSectionHeaders::00000190,e,.lib.stub.top - SHT_PROGBITS
+_elfSectionHeaders::000001b8,e,.lib.stub - SHT_PROGBITS
+_elfSectionHeaders::000001e0,e,.rel.lib.stub - SHT_REL
+_elfSectionHeaders::00000208,e,.lib.stub.btm - SHT_PROGBITS
+_elfSectionHeaders::00000230,e,.rodata.sceModuleInfo - SHT_PROGBITS
+_elfSectionHeaders::00000258,e,.rel.rodata.sceModuleInfo - SHT_REL
+_elfSectionHeaders::00000280,e,.rodata.sceResident - SHT_PROGBITS
+_elfSectionHeaders::000002a8,e,.rel.rodata.sceResident - SHT_REL
+_elfSectionHeaders::000002d0,e,.rodata.sceNid - SHT_PROGBITS
+_elfSectionHeaders::000002f8,e,.rodata.sceVstub - SHT_PROGBITS
+_elfSectionHeaders::00000320,e,.data - SHT_PROGBITS
+_elfSectionHeaders::00000348,e,.rel.data - SHT_REL
+_elfSectionHeaders::00000370,e,.bss - SHT_NOBITS
+_elfSectionHeaders::00000398,e,.comment - SHT_PROGBITS

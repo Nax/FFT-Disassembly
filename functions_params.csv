@@ -1,0 +1,235 @@
+addr,ord,name,type
+08804d30,0,head,/undefined4
+08804d30,1,list,/undefined4
+08805c10,0,mode,/undefined4
+08805c10,1,vertexType,/undefined4
+08805c10,2,count,/undefined4
+08805c10,4,verticesAddr,/void *
+088062f8,0,color,/stdint.h/uint32_t
+088063c8,0,smooth,/int
+088065cc,0,min,/undefined4
+088065cc,1,mag,/undefined4
+0880678c,0,texUnit,/undefined4
+0880678c,1,width,/int
+0880678c,2,height,/int
+0880678c,3,unk,/undefined4
+0880678c,4,texAddr,/void *
+088079c0,0,dlb,/Display/DisplayListBuilder *
+088079c0,1,mask,/undefined4
+088079c0,2,value,/undefined4
+08807cd8,1,smooth,/undefined4
+08807f40,1,handler,/undefined4
+08807f40,2,arg,/undefined4
+08808300,0,__x,/double
+08808940,0,__x,/double
+08808980,0,__value,/double
+088089c0,0,__value,/double
+08808c00,0,v,/int
+08808d40,0,src,/undefined4
+08808d40,1,dst,/undefined4
+08808d40,2,size,/undefined4
+0880c540,0,__s,/void *
+0880c540,1,__c,/int
+0880c540,2,__n,/stddef.h/size_t
+0880c640,0,__s1,/void *
+0880c640,1,__s2,/void *
+0880c640,2,__n,/stddef.h/size_t
+0880c700,0,__dest,/void *
+0880c700,1,__src,/void *
+0880c700,2,__n,/stddef.h/size_t
+0880c840,0,__dest,/void *
+0880c840,1,__src,/void *
+0880c840,2,__n,/stddef.h/size_t
+0880cb80,0,__s,/void *
+0880cb80,1,__c,/int
+0880cb80,2,__n,/stddef.h/size_t
+0880f740,0,__dest,/char *
+0880f740,1,__src,/char *
+0880f800,0,__s1,/char *
+0880f800,1,__s2,/char *
+0880f880,0,__dest,/char *
+0880f880,1,__src,/char *
+0880f940,0,__s,/char *
+0882d600,0,cmd,/undefined4
+088328c0,0,cmd,/Display/DisplayCommand *
+08835200,0,mode,/undefined2
+08837680,0,a,/int
+08837680,1,b,/int
+08837680,2,c,/int
+08837680,3,d,/int
+08837680,4,e,/int
+088b4dc0,0,attackCtxSrc,/Game/Battle/BattleAttackContext *
+088b4dc0,1,targetSlot,/stdint.h/uint8_t
+088be900,0,arg0,/int
+088be900,1,arg1,/int
+088be900,2,dst,/stdint.h/uint8_t *
+088c1b00,0,unitSlot,/undefined4
+088c21c0,0,unitSlot,/undefined4
+088c2dc0,0,itemID,/stdint.h/uint16_t
+088c2e00,0,jobId,/undefined4
+088c7940,0,src,/Game/Battle/BattleAttackContext *
+088c7940,1,dst,/Game/Battle/BattleAttackContext *
+088c7980,0,src,/void *
+088c7980,1,dst,/void *
+088c7980,2,size,/int
+088c7e00,0,dst,/stdint.h/uint8_t *
+088c7e00,1,size,/int
+088d3740,0,sourceUnit,/Game/Battle/BattleUnit *
+08918c00,0,jobId,/uint
+089535c0,0,chests,/Game/Multi/MultiChest *
+089535c0,1,points,/int
+089535c0,2,averageLevel,/int
+08955780,0,chests,/Game/Multi/MultiChest *
+08955780,2,avgLevel,/int
+08955780,3,actionCount,/int
+0898eb00,0,itemID,/ushort
+0898eb40,0,ItemID,/ushort
+08990a80,0,ItemID,/ushort
+089a2a00,0,itemID,/stdint.h/uint16_t
+089ef7c0,0,vsync,/ThreadStateVsync *
+089ef980,0,vsync,/ThreadStateVsync *
+089efa80,1,vsync,/ThreadStateVsync *
+08a08e00,0,size,/int
+08a096c0,0,argSize,/int
+08a096c0,1,io,/IOManager * *
+08a09700,0,io,/IOManager *
+08a0a040,0,io,/IOManager *
+08a0a040,1,flags,/int
+08a0a200,0,io,/IOManager *
+08a0a200,1,cmd,/IOCommand *
+08a0a500,0,io,/IOManager *
+08a0a500,1,flag,/undefined4
+08a18600,0,itemID,/stdint.h/uint16_t
+08a18680,0,itemID,/stdint.h/uint16_t
+08a186c0,0,itemID,/stdint.h/uint16_t
+08a18700,0,itemID,/stdint.h/uint16_t
+08a18740,0,itemId,/stdint.h/uint16_t
+08a18780,0,itemID,/stdint.h/uint16_t
+08a187c0,0,statusInflictID,/stdint.h/uint16_t
+08a18800,0,attrID,/stdint.h/uint16_t
+08a18880,0,itemID,/stdint.h/uint16_t
+08a18c00,0,itemId,/ushort
+08a18c40,0,itemID,/stdint.h/uint16_t
+08a18c80,0,itemID,/stdint.h/uint16_t
+08a18cc0,0,itemID,/short
+08a18d00,0,itemID,/stdint.h/uint16_t
+08a18d80,0,itemID,/short
+08a18dc0,0,itemID,/stdint.h/uint16_t
+08a18e40,0,itemID,/stdint.h/uint16_t
+08a18e40,1,category,/int
+08a190c0,0,itemID,/stdint.h/uint16_t
+08a190c0,1,table,/Game/Item/ItemChemistData *
+08a190c0,2,table2,/Game/Item/ItemChemistData *
+08a192c0,0,itemId,/stdint.h/uint16_t
+08a192c0,1,oldTable,/Game/Item/ItemAccessoryData *
+08a192c0,2,newTable,/Game/Item/ItemAccessoryData *
+08a194c0,0,itemID,/stdint.h/uint16_t
+08a194c0,1,table,/Game/Item/ItemArmorData *
+08a194c0,2,table2,/Game/Item/ItemArmorData *
+08a196c0,0,itemID,/stdint.h/uint16_t
+08a196c0,1,table,/Game/Item/ItemShieldData *
+08a196c0,2,table2,/Game/Item/ItemShieldData *
+08a198c0,0,itemID,/stdint.h/uint16_t
+08a198c0,1,oldTable,/Game/Item/ItemWeaponData *
+08a198c0,2,newTable,/Game/Item/ItemWeaponData *
+08a19e00,0,slot,/undefined4
+08a1b000,0,net,/NetStruct0 *
+08a1b000,1,slot,/int
+08a1b080,0,net,/NetStruct0 *
+08a1b080,1,buffer,/char *
+08a1b080,2,size,/int
+08a1b300,0,net,/NetStruct0 *
+08a1b380,0,net,/NetStruct0 *
+08a1d880,0,args,/sys/SceSize
+08a1d880,1,argp,/void *
+08a1d940,0,ctx,/Display/DisplayContext *
+08a21e80,0,type,/undefined4
+08a21e80,1,value,/undefined4
+08a21ec0,0,type,/int
+08a21ec0,1,value,/int
+08a23800,0,buffer,/char *
+08a23800,1,size,/int
+08a357c0,1,avgLevel,/int
+08a357c0,2,actionCount,/int
+08a35840,0,missionID,/int
+08a35840,1,avgLevel,/int
+08a35840,2,actionCount,/int
+08a35900,0,itemPool,/stdint.h/uint16_t *
+08a35900,1,missionID,/undefined4
+08a35900,2,itemPoolIndex,/undefined4
+08a35a40,0,missionID,/undefined4
+08a35a40,1,avgLevel,/undefined4
+08a35ac0,0,missionID,/undefined4
+08a35ac0,1,actionCount,/undefined4
+08a35b40,0,missionID,/undefined4
+08a35b40,1,actionCountRank,/undefined4
+08a35b80,0,itemPoolIndex,/undefined4
+08a35b80,1,levelRank,/undefined4
+08a4af14,0,intno,/int
+08a4af14,1,no,/int
+08a4af14,2,handler,/void *
+08a4af14,3,arg,/void *
+08a4af6c,0,file,/char *
+08a4af6c,1,flags,/int
+08a4af6c,2,mode,/sys/SceMode
+08a4b094,0,evid,/int
+08a4b094,1,bits,/stdint.h/uint32_t
+08a4b094,2,wait,/sys/PspEventFlagWaitTypes
+08a4b094,3,outBits,/stdint.h/uint32_t *
+08a4b094,4,timeout,/sys/SceUInt *
+08a4b09c,0,name,/char *
+08a4b09c,1,entry,/sys/SceKernelThreadEntry
+08a4b09c,2,initPriority,/int
+08a4b09c,3,stackSize,/int
+08a4b09c,4,attr,/sys/SceUInt
+08a4b09c,5,cpuAffinityMask,/int
+08a4b09c,6,option,/void *
+08a4b18c,0,data,/sys/SceCtrlData *
+08a4b18c,1,count,/int
+08a4b1e4,0,list,/void *
+08a4b1e4,1,stall,/void *
+08a4b1e4,2,cbid,/int
+08a4b1e4,3,arg,/void *
+08a4b1fc,0,list,/void *
+08a4b1fc,1,stall,/void *
+08a4b1fc,2,cbid,/int
+08a4b1fc,3,arg,/void *
+08a4b2f4,0,id,/int
+08a4b2f4,1,data,/void *
+08a4b2f4,2,datasize,/int *
+08a4b2f4,3,timeout,/uint
+08a4b2f4,4,nonblock,/int
+08a4b2fc,0,srcmac,/uchar *
+08a4b2fc,1,srcport,/ushort
+08a4b2fc,2,destmac,/uchar *
+08a4b2fc,3,destport,/ushort
+08a4b2fc,4,bufsize,/uint
+08a4b2fc,5,delay,/uint
+08a4b2fc,6,count,/int
+08a4b2fc,7,unk1,/int
+08a4b304,0,id,/int
+08a4b304,1,data,/void *
+08a4b304,2,datasize,/int *
+08a4b304,3,timeout,/uint
+08a4b304,4,nonblock,/int
+08a4b30c,0,id,/int
+08a4b30c,1,timeout,/uint
+08a4b30c,2,nonblock,/int
+08a4b314,0,id,/int
+08a4b314,1,mac,/uchar *
+08a4b314,2,port,/ushort *
+08a4b314,3,timeout,/uint
+08a4b314,4,nonblock,/int
+08a4b324,0,srcmac,/uchar *
+08a4b324,1,srcport,/ushort
+08a4b324,2,bufsize,/uint
+08a4b324,3,delay,/uint
+08a4b324,4,count,/int
+08a4b324,5,queue,/int
+08a4b324,6,unk1,/int
+08a4b38c,0,mac,/uchar *
+08a4b39c,0,poolsize,/int
+08a4b39c,1,calloutprio,/int
+08a4b39c,2,calloutstack,/int
+08a4b39c,3,netintrprio,/int
+08a4b39c,4,netintrstack,/int

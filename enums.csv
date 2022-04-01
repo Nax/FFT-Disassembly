@@ -1,0 +1,6 @@
+uuid,name,size,comment
+e628f924-c3c7-4c65-8e9d-65c1438a125d,/Game/ActionType,1,
+b2164b76-5d34-4418-9914-8020a06de8d9,/ELF/Elf_ProgramHeaderType_Allegrex,4,
+54729768-7bd6-4bdc-908d-4e437c641975,/ELF/Elf_SectionHeaderType_Allegrex,4,
+f6d76cb6-e9c4-4527-bbbb-5414b8b97958,/Game/Item/ItemEquipSlot,4,
+106ee32d-3938-4e1f-bc6e-03c8b5297631,/sys/PspEventFlagWaitTypes,1,
